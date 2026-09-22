@@ -1,2 +1,1 @@
-Mi primer archivo
-Estoy aprendiendo a crear una rama llamada: nueva-funcion
+Se está creando una versión conflicto desde la rama-conflicto
