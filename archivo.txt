@@ -1,2 +1,1 @@
-Mi primer archivo
-Estoy aprendiendo a crear una rama llamada: nueva-funcion
+La versión de main se está modificando
